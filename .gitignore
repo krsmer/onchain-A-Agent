@@ -27,3 +27,7 @@ npm-debug.log*
 
 # TypeScript
 *.tsbuildinfo
+
+# Compiled Solidity artifacts
+contracts/*.abi.json
+contracts/*.bytecode.txt
